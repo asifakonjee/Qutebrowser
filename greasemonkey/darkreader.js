@@ -371,11 +371,11 @@
     };
     var P = "dynamicTheme",
         O = {
-            background: "#282a36",
+            background: "#000000",
             text: "#f8f8f2"
         },
         j = {
-            background: "#44475a",
+            background: "#000000",
             text: "#f8f8f2"
         },
         D = {
@@ -4112,13 +4112,13 @@
 //# sourceMappingURL=/sm/5a2bdc5d7663a0e643f0674a9ceaf6cfa7d1ed8f84448f8321084004e0f0d8af.map
 
 DarkReader.enable({
-	brightness: 100,
-	contrast: 100,
+	brightness: 85,
+	contrast: 115,
 	sepia: 0,
-    darkSchemeBackgroundColor: "#282a36",
+    darkSchemeBackgroundColor: "#000000",
     darkSchemeTextColor: "#f8f8f2",
     // darkColorScheme: "Solarized",
-    lightSchemeBackgroundColor: "#44475a",
+    lightSchemeBackgroundColor: "#000000",
     lightSchemeTextColor: "#f8f8f2",
     // lightColorScheme: "Solarized"
 });
